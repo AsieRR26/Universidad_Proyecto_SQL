@@ -75,7 +75,7 @@ VALUES
 
 INSERT INTO Calificaciones (ID_Estudiante, ID_Curso, Calificación)
 VALUES
-    (1, 29, 7.23),
+	(1, 29, 7.23),
 	(1, 2, 4.81),
 	(1, 3, 5.46),
 	(1, 4, 4.31),
