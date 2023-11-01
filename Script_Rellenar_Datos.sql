@@ -43,7 +43,7 @@ VALUES
 INSERT INTO Cursos (Nombre_Curso, ID_Profesor)
 VALUES
 	('Programación Avanzada', 1),
-    ('Bases de Datos', 1),
+	('Bases de Datos', 1),
 	('Redes de Computadoras', 1),
 	('Desarrollo Web', 1),
 	('Biología Molecular', 1),
@@ -67,7 +67,7 @@ VALUES
 	('Derecho Penal', 4),
 	('Derecho Comercial', 4),
 	('Historia Contemporánea', 4),
-    ('Diseño Arquitectónico', 5),
+	('Diseño Arquitectónico', 5),
 	('Historia del Arte', 5),
 	('Pintura', 5),
 	('Dibujo', 6),
